@@ -1,0 +1,12 @@
+Registrar al menos 4 ejemplos del código dónde se utilice flexbox.
+
+1- La primera vez que se usa flex es en el contenedor section dentro del header. Esto hace que las diferentes opciones dentro de
+la barra de menu que vamos a crear se alineen una al lado de la otra.
+
+2- En el contenedor section que aloja los iconos del modo claro/oscuro.
+
+3- En el contenedor article que forma parte del card de la landing page del ejercicio. Esta card nos da una presentación a simple
+vista del creador de esta página.
+
+4- En el contenedor section que aloja los iconos de las redes sociales incluidas.
+ 
